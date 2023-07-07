@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DatePickerDialog</string>
+    <string name="button_name">Show DatePicker Dialog</string>
+</resources>
